@@ -15,6 +15,7 @@ INSERT INTO
 VALUES (
         'Onix',
         'Ford',
+        'look',
         2018,
         279560,
         89355,
