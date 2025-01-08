@@ -111,3 +111,5 @@ VALUES (
         'Rua do Vento, 333',
         '2233445566'
     );
+
+INSERT INTO vehicles (name, brand) VALUES ('Onix', 'Chevrolet');
