@@ -20,3 +20,4 @@ CREATE TABLE vehicles (
     `brand` VARCHAR(50) NOT NULL,
     `created_at` TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
